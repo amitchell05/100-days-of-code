@@ -6,15 +6,19 @@
 
 **Thoughts:** I seemed simplify my code greatly this time. My first attempt on this assignment months ago looks harder to read. I'm getting more comfortable with loops and template literals
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 23, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I studied coding for an hour today. I completed the first two sections of Colt Steele's The Modern JavaScript Bootcamp. Also, I helped out fellow classmates by reviewing their code for our exercises in CoderGirl's course.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm enjoying the class format of Colt Steele's courses on Udemy. It helps to see things broken down into smaller parts.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 3: August 24, 2020
 
+**Today's Progress**: Today, I completed today's exercises and studios in the CoderGirl class.
+
+**Thoughts:** I still feel awkward walking through my code with others and get embarrassed by my mistakes. As one of our instructors said, we're all still learning.
+
+## Saved Example
 
 ### Day 1: June 27, Monday
 
