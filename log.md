@@ -18,6 +18,12 @@
 
 **Thoughts:** I still feel awkward walking through my code with others and get embarrassed by my mistakes. As one of our instructors said, we're all still learning.
 
+### Day 4: August 25, 2020
+
+**Today's Progress**: I completed half of section 3 in Colt Steele's Modern JavaScript course on Udemy and worked through the conditionals module with SoloLearn.
+
+**Thoughts:** I'm gradually understanding smaller concepts in JavaScript, but still worry if I will be able to apply my understanding to real projects.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
