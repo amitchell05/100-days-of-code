@@ -28,7 +28,7 @@
 
 **Today's Progress**: I reviewed JavaScript concept through freecodecamp's Basic JavaScript module. Also, for CoderGirl, we worked in groups to complete the studio assignment.
 
-**Thoughts:** I felt a little better talking through the code this time. We watched a cute racoon video when we finished it. Good times!
+**Thoughts:** I felt a little better talking through the code this time. We watched a cute raccoon video when we finished it. Good times!
 
 ## Saved Example
 
