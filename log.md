@@ -24,6 +24,12 @@
 
 **Thoughts:** I'm gradually understanding smaller concepts in JavaScript, but still worry if I will be able to apply my understanding to real projects.
 
+### Day 5: August 26, 2020
+
+**Today's Progress**: I reviewed JavaScript concept through freecodecamp's Basic JavaScript module. Also, for CoderGirl, we worked in groups to complete the studio assignment.
+
+**Thoughts:** I felt a little better talking through the code this time. We watched a cute racoon video when we finished it. Good times!
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
