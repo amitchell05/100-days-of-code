@@ -30,6 +30,12 @@
 
 **Thoughts:** I felt a little better talking through the code this time. We watched a cute raccoon video when we finished it. Good times!
 
+### Day 6: August 27, 2020
+
+**Today's Progress**: I worked through some tough coding challenges on JavaScript functions for CoderGirl.
+
+**Thoughts:** Some days, there are some parts of my code I don't understand (esp. when it gets mathematical). I am glad I solved them so far, though.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
