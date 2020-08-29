@@ -36,6 +36,12 @@
 
 **Thoughts:** Some days, there are some parts of my code I don't understand (esp. when it gets mathematical). I am glad I solved them so far, though.
 
+### Day 7: August 27, 2020
+
+**Today's Progress**: I read Chapter 11 of my web development book for CoderGirl. It covered recursion and anonymous functions. This is where things get tricky.
+
+**Thoughts:** Mathematical reasoning is still somewhat confusing at times. I'm stuck on one part of my exercises, but so close to solving it.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
