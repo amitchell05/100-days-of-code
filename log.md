@@ -42,6 +42,12 @@
 
 **Thoughts:** Mathematical reasoning is still somewhat confusing at times. I'm stuck on one part of my exercises, but so close to solving it.
 
+### Day 8: August 29, 2020
+
+**Today's Progress**: I completed Colt Steele's Intro to HTML and How to Model Data Efficiently sections today. Also, I solved the anonymous function exercise I had problems with yesterday.
+
+**Thoughts:** I'm relieved, but I want to refactor my function to be recursive.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
