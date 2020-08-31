@@ -48,6 +48,8 @@
 
 **Thoughts:** I'm relieved, but I want to refactor my function to be recursive.
 
+### Day 9: August 30, 2020
+
 **Today's Progress**: I completed Section 4 of The Modern JavaScript Bootcamp course.
 
 **Thoughts:** I tend to practice coding for 2-5 hours a day since I'm in more than one class. I'm hoping I can find some balance so I can do my digital painting as well.
