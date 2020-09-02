@@ -4,55 +4,67 @@
 
 **Today's Progress**: I coded for at least 4 hours today for the CoderGirl Front End course. I completed my first assignment. I am waiting for it to be graded by my TAs/Mentors.
 
-**Thoughts:** I seemed simplify my code greatly this time. My first attempt on this assignment months ago looks harder to read. I'm getting more comfortable with loops and template literals
+**Thoughts**: I seemed simplify my code greatly this time. My first attempt on this assignment months ago looks harder to read. I'm getting more comfortable with loops and template literals
 
 ### Day 2: August 23, 2020
 
 **Today's Progress**: I studied coding for an hour today. I completed the first two sections of Colt Steele's The Modern JavaScript Bootcamp. Also, I helped out fellow classmates by reviewing their code for our exercises in CoderGirl's course.
 
-**Thoughts:** I'm enjoying the class format of Colt Steele's courses on Udemy. It helps to see things broken down into smaller parts.
+**Thoughts**: I'm enjoying the class format of Colt Steele's courses on Udemy. It helps to see things broken down into smaller parts.
 
 ### Day 3: August 24, 2020
 
 **Today's Progress**: Today, I completed today's exercises and studios in the CoderGirl class.
 
-**Thoughts:** I still feel awkward walking through my code with others and get embarrassed by my mistakes. As one of our instructors said, we're all still learning.
+**Thoughts**: I still feel awkward walking through my code with others and get embarrassed by my mistakes. As one of our instructors said, we're all still learning.
 
 ### Day 4: August 25, 2020
 
 **Today's Progress**: I completed half of section 3 in Colt Steele's Modern JavaScript course on Udemy and worked through the conditionals module with SoloLearn.
 
-**Thoughts:** I'm gradually understanding smaller concepts in JavaScript, but still worry if I will be able to apply my understanding to real projects.
+**Thoughts**: I'm gradually understanding smaller concepts in JavaScript, but still worry if I will be able to apply my understanding to real projects.
 
 ### Day 5: August 26, 2020
 
 **Today's Progress**: I reviewed JavaScript concept through freecodecamp's Basic JavaScript module. Also, for CoderGirl, we worked in groups to complete the studio assignment.
 
-**Thoughts:** I felt a little better talking through the code this time. We watched a cute raccoon video when we finished it. Good times!
+**Thoughts**: I felt a little better talking through the code this time. We watched a cute raccoon video when we finished it. Good times!
 
 ### Day 6: August 27, 2020
 
 **Today's Progress**: I worked through some tough coding challenges on JavaScript functions for CoderGirl.
 
-**Thoughts:** Some days, there are some parts of my code I don't understand (esp. when it gets mathematical). I am glad I solved them so far, though.
+**Thoughts**: Some days, there are some parts of my code I don't understand (esp. when it gets mathematical). I am glad I solved them so far, though.
 
 ### Day 7: August 28, 2020
 
 **Today's Progress**: I read Chapter 11 of my web development book for CoderGirl. It covered recursion and anonymous functions. This is where things get tricky.
 
-**Thoughts:** Mathematical reasoning is still somewhat confusing at times. I'm stuck on one part of my exercises, but so close to solving it.
+**Thoughts**: Mathematical reasoning is still somewhat confusing at times. I'm stuck on one part of my exercises, but so close to solving it.
 
 ### Day 8: August 29, 2020
 
 **Today's Progress**: I completed Colt Steele's Intro to HTML and How to Model Data Efficiently sections today. Also, I solved the anonymous function exercise I had problems with yesterday.
 
-**Thoughts:** I'm relieved, but I want to refactor my function to be recursive.
+**Thoughts**: I'm relieved, but I want to refactor my function to be recursive.
 
 ### Day 9: August 30, 2020
 
 **Today's Progress**: I completed Section 4 of The Modern JavaScript Bootcamp course.
 
-**Thoughts:** I tend to practice coding for 2-5 hours a day since I'm in more than one class. I'm hoping I can find some balance so I can do my digital painting as well.
+**Thoughts**: I tend to practice coding for 2-5 hours a day since I'm in more than one class. I'm hoping I can find some balance so I can do my digital painting as well.
+
+### Day 10: August 31, 2020
+
+**Today's Progress**: I just completed "Calculator Project: HTML & CSS" by [Frontend Masters](https://frontendmasters.com/bootcamp/calculator-html-css/. Today's CoderGirl WebDev lecture will cover functions.
+
+**Thoughts**: I want to revisit these videos to grasp more concepts in HTML and CSS (especially flexbox), but it was a great experience! 
+
+### Day 11: September 1, 2020
+
+**Today's Progress**: Busy day coding yesterday. I helped a classmate with one of our class assignments.
+
+**Thoughts**: It was great practice for explaining terminology and JavaScript concepts. 
 
 ## Saved Example
 
