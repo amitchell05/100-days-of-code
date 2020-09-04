@@ -64,7 +64,25 @@
 
 **Today's Progress**: Busy day coding yesterday. I helped a classmate with one of our class assignments.
 
-**Thoughts**: It was great practice for explaining terminology and JavaScript concepts. 
+**Thoughts**: It was great practice for explaining terminology and JavaScript concepts.
+
+### Day 12: September 2, 2020
+
+**Today's Progress**: Completed my third week in CoderGirl! We completed our exercises and studios about functions this week.
+
+**Thoughts**: I'm gradually getting better with problem-solving, but I still feel I rely on the book a lot.
+
+### Day 13: September 3, 2020
+
+**Today's Progress**: I completed the pre-work reading for next week's class on objects and the `Math` object. I also attended an inspiring webinar about time management from (Sidney Buckner)[@sidneybuckner18]. Thank you for the advice!
+
+**Thoughts**: I feel I can greatly improve my study plan now.
+
+### Day 14: September 4, 2020
+
+**Today's Progress**: I completed the main requirements for the second assignment for CoderGirl. I solved in months ago when working on the materials at my own pace. It looks different from my current one (in a bad way, somewhat).
+
+**Thoughts**: Yet, I still want to check in with my mentors about my approach.
 
 ## Saved Example
 
