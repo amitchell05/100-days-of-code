@@ -80,7 +80,7 @@
 
 ### Day 14: September 4, 2020
 
-**Today's Progress**: I completed the main requirements for the second assignment for CoderGirl. I solved in months ago when working on the materials at my own pace. It looks different from my current one (in a bad way, somewhat).
+**Today's Progress**: I completed the main requirements for the second assignment for CoderGirl. I solved it months ago when working on the materials at my own pace. It looks different from my current one (in a bad way, somewhat).
 
 **Thoughts**: Yet, I still want to check in with my mentors about my approach.
 
