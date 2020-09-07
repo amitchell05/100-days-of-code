@@ -90,6 +90,12 @@
 
 **Thoughts**: It's encouraging to refamiliarize myself with CSS. I hope my studies will help me make user-friendly, inspiring websites soon.
 
+### Day 16: September 6, 2020
+
+**Today's Progress**: I completed Colt Steele's Intro to CSS section. Also, I completed the "bonus missions" for my second assignment in CoderGirl. 
+
+**Thoughts**: It was great for identifying and using selectors. On to Intermediate CSS! I'm grateful for being able to stay slightly ahead of schedule in the CoderGirl course, but I also want to make sure I focus more on the journey and less on the destination.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
