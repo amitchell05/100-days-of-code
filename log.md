@@ -84,6 +84,12 @@
 
 **Thoughts**: Yet, I still want to check in with my mentors about my approach.
 
+### Day 15: September 5, 2020
+
+**Today's Progress**: I narrowed down my coding study session to one hour on Saturday. I completed half of Colt Steele's Intro to CSS course. 
+
+**Thoughts**: Yet, I still want to check in with my mentors about my approach. It's encouraging to refamiliarize myself with CSS. I hope my studies will help me make user-friendly, inspiring websites soon.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
