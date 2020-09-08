@@ -96,6 +96,12 @@
 
 **Thoughts**: It was great for identifying and using selectors. On to Intermediate CSS! I'm grateful for being able to stay slightly ahead of schedule in the CoderGirl course, but I also want to make sure I focus more on the journey and less on the destination.
 
+### Day 17: September 7, 2020
+
+**Today's Progress**: I completed Colt Steele's Intermediate CSS section. The rest of the week will be mainly dedicated to my CoderGirl studies.
+
+**Thoughts**: I like styling websites, except when it comes to measuring things (box model etc.).
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
