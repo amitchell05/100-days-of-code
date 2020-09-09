@@ -102,6 +102,12 @@
 
 **Thoughts**: I like styling websites, except when it comes to measuring things (box model etc.).
 
+### Day 18: September 8, 2020
+
+**Today's Progress**: I completed half of Colt Steele's Bootstrap section on Udemy, coding along, and building responsive webpages. Also, I showed my father how my code for CoderGirl's Assignment 2 works.
+
+**Thoughts**: It was nice to share my progress with my father, who likes technology.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
