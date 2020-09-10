@@ -108,6 +108,12 @@
 
 **Thoughts**: It was nice to share my progress with my father, who likes technology.
 
+### Day 19: September 9, 2020
+
+**Today's Progress**: We reviewed objects and the Math method in CoderGirl's class today. I'm completed most of the studios, but struggled with understanding the instructions.
+
+**Thoughts**: I'm glad I understand objects mostly, but I need to improve my problem-solving skills. Hopefully, tomorrow will be better.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
