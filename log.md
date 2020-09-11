@@ -114,6 +114,12 @@
 
 **Thoughts**: I'm glad I understand objects mostly, but I need to improve my problem-solving skills. Hopefully, tomorrow will be better.
 
+### Day 20: September 10, 2020
+
+**Today's Progress**: Yesterday, I had trouble understanding the JavaScript studio exercises in class. But, after a night of rest, I was able to debug, fix my code, and solve them! Also, I completed the reading and exercises about modules.
+
+**Thoughts**: I'm relieved that I found my errors. Breaking things down into smaller pieces helped tremendously.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
