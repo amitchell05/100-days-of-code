@@ -120,6 +120,12 @@
 
 **Thoughts**: I'm relieved that I found my errors. Breaking things down into smaller pieces helped tremendously.
 
+### Day 21: September 11, 2020
+
+**Today's Progress**: I completed the reading and exercises about unit testing in my CoderGirl course. Also, I finished the 1st part of Bootstrap in Web Dev Bootcamp.
+
+**Thoughts**: I'm glad I solved them. I want to refactor my code for one of the exercises to make it prettier. 
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
