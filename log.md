@@ -122,9 +122,21 @@
 
 ### Day 21: September 11, 2020
 
+**Today's Progress**: I focused on learning about unit testing. I'll have study this concept for a few more days to get more comfortable with test-driven development.
+
+**Thoughts**: It's challenging to change my workflow, but it does seem to help with debugging better.
+
+### Day 22: September 12, 2020
+
 **Today's Progress**: I completed the reading and exercises about unit testing in my CoderGirl course. Also, I finished the 1st part of Bootstrap in Web Dev Bootcamp.
 
-**Thoughts**: I'm glad I solved them. I want to refactor my code for one of the exercises to make it prettier. 
+**Thoughts**: I'm glad I solved them. I want to refactor my code for one of the exercises to make it prettier.
+
+### Day 23: September 13, 2020
+
+**Today's Progress**: I learned more about Bootstrap 4 from Colt Steele's videos. Also, I received positive feedback from my mentor about my code.
+
+**Thoughts**: It's great to hear because I deal with impostor syndrome. I'm worried how busy this week will be, but I still look forward to studying more.
 
 ## Saved Example
 
