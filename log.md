@@ -138,6 +138,12 @@
 
 **Thoughts**: It's great to hear because I deal with impostor syndrome. I'm worried how busy this week will be, but I still look forward to studying more.
 
+### Day 24: September 14, 2020
+
+**Today's Progress**: A busy day! We reviewed modules in CoderGirl's class. I completed a portrait sketch for the One Week Portrait challenge from Paintable. I also attended my first tech conference, the CityofJS Conference 2020.
+
+**Thoughts**: A great Day 1 experience learning JS topics and meeting new people! I am also grateful I could help fellow classmates with my solution approaches.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
