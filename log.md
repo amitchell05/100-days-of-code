@@ -144,6 +144,12 @@
 
 **Thoughts**: A great Day 1 experience learning JS topics and meeting new people! I am also grateful I could help fellow classmates with my solution approaches.
 
+### Day 25: September 15, 2020
+
+**Today's Progress**: Yesterday, I could only code for 30 minutes of coding. I started looking into my assigned reading about scope.
+
+**Thoughts**: I'm gradually learning how the order of code execution works. Also, I have a better understanding of local and global scopes.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
