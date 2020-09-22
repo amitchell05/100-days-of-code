@@ -150,6 +150,36 @@
 
 **Thoughts**: I'm gradually learning how the order of code execution works. Also, I have a better understanding of local and global scopes.
 
+### Day 26: September 16, 2020
+
+**Today's Progress**: On Thursday, I finished my third assignment in CoderGirl that involved creating unit tests.
+
+**Thoughts**: I'm still not comfortable with them, but I am glad my tests are passing so far. I will meet with my mentor to go over it before I submit it.
+
+### Day 27: September 17, 2020
+
+**Today's Progress**: I am ahead of schedule with my prep work for CoderGirl. For the weekend, I will do some light studying and review the materials. 
+
+**Thoughts**: Also, I will need some more rest and relaxation to prep for another busy week.
+
+### Day 28: September 18, 2020
+
+**Today's Progress**: Whew! I completed 70% of the Basic JavaScript module on freeCodeCamp, half of Bootstrap 4: Flexbox and Layout in the Web Developer Bootcamp, and tried some challenges from Frontend Mentor and Exercism.
+
+**Thoughts**: I need to pace myself better. I got overwhelmed when I viewed the README for the Hundle Landing page. I've learned the fundamentals of HTML, CSS, and JavaScript, but this beginner project makes me nervous.
+
+### Day 29: September 19, 2020
+
+**Today's Progress**: I finished the Bootstrap 4 section in Colt Steele's class, but I feel like I will need to revisit it later. I also tried a few Exercism exercises for JavaScript.
+
+**Thoughts**: Hopefully, I will get better with my problem-solving skills.
+
+### Day 30: September 20, 2020
+
+**Today's Progress**: Today, we covered unit testing in CoderGirl's class. I refactored my Assignment 3 and other exercises to not utilize deepStrictEqual at this time.
+
+**Thoughts**: I'm glad I know another way to solve the problem!
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
