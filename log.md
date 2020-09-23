@@ -180,6 +180,12 @@
 
 **Thoughts**: I'm glad I know another way to solve the problem!
 
+### Day 31: September 21, 2020
+
+**Today's Progress**: fter days of refactoring one of my solutions for an exercise, I reached out for help from mentors in CoderGirl. A solution route finally clicked.
+
+**Thoughts**: I'm grateful to my for helping me with this problem. It was good refactoring practice, but also overwhelming! 
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
