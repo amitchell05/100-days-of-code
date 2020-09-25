@@ -96,109 +96,114 @@
 
 **Thoughts**: It was great for identifying and using selectors. On to Intermediate CSS! I'm grateful for being able to stay slightly ahead of schedule in the CoderGirl course, but I also want to make sure I focus more on the journey and less on the destination.
 
-### Day 17: September 7, 2020
-
-**Today's Progress**: I completed Colt Steele's Intermediate CSS section. The rest of the week will be mainly dedicated to my CoderGirl studies.
-
-**Thoughts**: I like styling websites, except when it comes to measuring things (box model etc.).
-
-### Day 18: September 8, 2020
+### Day 17: September 8, 2020
 
 **Today's Progress**: I completed half of Colt Steele's Bootstrap section on Udemy, coding along, and building responsive webpages. Also, I showed my father how my code for CoderGirl's Assignment 2 works.
 
 **Thoughts**: It was nice to share my progress with my father, who likes technology.
 
-### Day 19: September 9, 2020
+### Day 18: September 9, 2020
 
 **Today's Progress**: We reviewed objects and the Math method in CoderGirl's class today. I'm completed most of the studios, but struggled with understanding the instructions.
 
 **Thoughts**: I'm glad I understand objects mostly, but I need to improve my problem-solving skills. Hopefully, tomorrow will be better.
 
-### Day 20: September 10, 2020
+### Day 19: September 10, 2020
 
 **Today's Progress**: Yesterday, I had trouble understanding the JavaScript studio exercises in class. But, after a night of rest, I was able to debug, fix my code, and solve them! Also, I completed the reading and exercises about modules.
 
 **Thoughts**: I'm relieved that I found my errors. Breaking things down into smaller pieces helped tremendously.
 
-### Day 21: September 11, 2020
+### Day 20: September 11, 2020
 
 **Today's Progress**: I focused on learning about unit testing. I'll have study this concept for a few more days to get more comfortable with test-driven development.
 
 **Thoughts**: It's challenging to change my workflow, but it does seem to help with debugging better.
 
-### Day 22: September 12, 2020
+### Day 21: September 12, 2020
 
 **Today's Progress**: I completed the reading and exercises about unit testing in my CoderGirl course. Also, I finished the 1st part of Bootstrap in Web Dev Bootcamp.
 
 **Thoughts**: I'm glad I solved them. I want to refactor my code for one of the exercises to make it prettier.
 
-### Day 23: September 13, 2020
+### Day 22: September 13, 2020
 
 **Today's Progress**: I learned more about Bootstrap 4 from Colt Steele's videos. Also, I received positive feedback from my mentor about my code.
 
 **Thoughts**: It's great to hear because I deal with impostor syndrome. I'm worried how busy this week will be, but I still look forward to studying more.
 
-### Day 24: September 14, 2020
+### Day 23: September 14, 2020
 
 **Today's Progress**: A busy day! We reviewed modules in CoderGirl's class. I completed a portrait sketch for the One Week Portrait challenge from Paintable. I also attended my first tech conference, the CityofJS Conference 2020.
 
 **Thoughts**: A great Day 1 experience learning JS topics and meeting new people! I am also grateful I could help fellow classmates with my solution approaches.
 
-### Day 25: September 15, 2020
+### Day 24: September 15, 2020
 
 **Today's Progress**: Yesterday, I could only code for 30 minutes of coding. I started looking into my assigned reading about scope.
 
 **Thoughts**: I'm gradually learning how the order of code execution works. Also, I have a better understanding of local and global scopes.
 
-### Day 26: September 16, 2020
+### Day 25: September 16, 2020
 
 **Today's Progress**: On Thursday, I finished my third assignment in CoderGirl that involved creating unit tests.
 
 **Thoughts**: I'm still not comfortable with them, but I am glad my tests are passing so far. I will meet with my mentor to go over it before I submit it.
 
-### Day 27: September 17, 2020
+### Day 26: September 17, 2020
 
 **Today's Progress**: Unknown (but I was DEFINITELY coding that day). The record for this day is missing.
 
 **Thoughts**: I'm so upset that I messed my log up :-(
 
-### Day 28: September 18, 2020
+### Day 27: September 18, 2020
 
 **Today's Progress**: I am ahead of schedule with my prep work for CoderGirl. For the weekend, I will do some light studying and review the materials. 
 
 **Thoughts**: Also, I will need some more rest and relaxation to prep for another busy week.
 
-### Day 29: September 19, 2020
+### Day 28: September 19, 2020
 
 **Today's Progress**: Whew! I completed 70% of the Basic JavaScript module on freeCodeCamp, half of Bootstrap 4: Flexbox and Layout in the Web Developer Bootcamp, and tried some challenges from Frontend Mentor and Exercism.
 
 **Thoughts**: I need to pace myself better. I got overwhelmed when I viewed the README for the Hundle Landing page. I've learned the fundamentals of HTML, CSS, and JavaScript, but this beginner project makes me nervous.
 
-### Day 30: September 20, 2020
+### Day 29: September 20, 2020
 
 **Today's Progress**: I finished the Bootstrap 4 section in Colt Steele's class, but I feel like I will need to revisit it later. I also tried a few Exercism exercises for JavaScript.
 
 **Thoughts**: Hopefully, I will get better with my problem-solving skills.
 
-### Day 31: September 21, 2020
+### Day 30: September 21, 2020
 
 **Today's Progress**: Today, we covered unit testing in CoderGirl's class. I refactored my Assignment 3 and other exercises to not utilize deepStrictEqual at this time.
 
 **Thoughts**: I'm glad I know another way to solve the problem!
 
-### Day 32: September 22, 2020
+### Day 31: September 22, 2020
 
-**Today's Progress**: fter days of refactoring one of my solutions for an exercise, I reached out for help from mentors in CoderGirl. A solution route finally clicked.
+**Today's Progress**: After days of refactoring one of my solutions for an exercise, I reached out for help from mentors in CoderGirl. A solution route finally clicked.
 
-**Thoughts**: I'm grateful to my for helping me with this problem. It was good refactoring practice, but also overwhelming! 
+**Thoughts**: I'm grateful to my mentors for helping me with this problem. It was good refactoring practice, but also overwhelming!
+
+### Day 32: September 23, 2020
+**Today's Progress**: Practiced coding and attended the Black is Tech conference.
+
+**Thoughts**: I did coding this day, but I think this might have been the missing entry. This will be a placeholder to keep the record on track
+
+### Day 33: September 24, 2020
+
+**Today's Progress**: I finished CoderGirl's Class 14's reading and exercise ahead of schedule. The Document Object Model (DOM) and events are the main topics covered in the section. Today was also the third day of Black isTech conference. I attended sessions that covered how to leverage your LinkedIn page and how to be a brand in tech (not just an employee).
+
+**Thoughts**: I'm looking forward to learning more about how to use them! It was hard to absorb all the information at the event, but the resources recommended and connections.
 
 ## Saved Example
 
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: TEXT
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** TEXT
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
