@@ -197,6 +197,12 @@
 
 **Thoughts**: I'm looking forward to learning more about how to use them! It was hard to absorb all the information at the event, but the resources recommended and connections.
 
+### Day 34: September 25,2020
+
+**Today's Progress**: I got a bit of a late start to my coding studies today. For CoderGirl, I read through half of a chapter covering HTTP. This chapter didn't involve repl.it exercises. So, I decided to try Exercism's resistor code duo exercise.
+
+**Thoughts**: I solved the problem, but I'm wondering if my approach was correct. I'm waiting for feedback from a mentor to confirm I took the best path.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
