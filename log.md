@@ -203,6 +203,12 @@
 
 **Thoughts**: I solved the problem, but I'm wondering if my approach was correct. I'm waiting for feedback from a mentor to confirm I took the best path.
 
+### Day 35: September 26, 2020
+
+**Today's Progress**: My third CoderGirl assignment has been graded! I'm halfway through Unit 1 of the front-end development track. I also completed reading about HTTP, user inputs, and forms. Soon, we'll be covering HTML and CSS (my favs!).
+
+**Thoughts**: This will be another busy week...Conferences, classes, appointments, studying, and more. I must prepare myself.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
