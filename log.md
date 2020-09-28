@@ -209,6 +209,12 @@
 
 **Thoughts**: This will be another busy week...Conferences, classes, appointments, studying, and more. I must prepare myself.
 
+### Day 36: September 27, 2020
+
+**Today's Progress**: I'm almost halfway through Coursera's Intro to Figma guided project. I hope to learn more about front-end development and web design and utilize Figma for future projects. Also, I solve a few HackerRank exercises in the Problem-Solving section.
+
+**Thoughts**: On some of them, I still feel I use Google too much to remind me of methods I can use. Hopefully, I will be able to recall them better with practice.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
