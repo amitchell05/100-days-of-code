@@ -215,6 +215,12 @@
 
 **Thoughts**: On some of them, I still feel I use Google too much to remind me of methods I can use. Hopefully, I will be able to recall them better with practice.
 
+### Day 37: September 28, 2020
+
+**Today's Progress**: We covered classes in CoderGirl today. I have a better understanding of super() now. I also completed Coursera's Intro to Figma guided project and a few exercises on Hackerank and CodeHS.
+
+**Thoughts**: I hope I will get better with remembering methods.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
