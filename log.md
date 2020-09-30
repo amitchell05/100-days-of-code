@@ -221,6 +221,12 @@
 
 **Thoughts**: I hope I will get better with remembering methods.
 
+### Day 38: September 29, 2020
+
+**Today's Progress**: A bit of a shorter day for coding. I backed up my repl.it files (Classroom is nearing end-of-life). I worked on exercises from Exercism, CodeHS, and HackerRank.
+
+**Thoughts**: I'm close to solving the Time Conversion on HackerRank. Missing the first 0...hmm
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
