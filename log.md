@@ -227,6 +227,12 @@
 
 **Thoughts**: I'm close to solving the Time Conversion on HackerRank. Missing the first 0...hmm
 
+### Day 39: September 30, 2020
+
+**Today's Progress**: I'm still having trouble with the HackerRank Time Conversion problem and Exercism Gigasecond problem. But, CoderGirl provided a bit of a break from math and covered one of my favorite things: HTML!
+
+**Thoughts**: I made fun changes to People.com's website during studio time tonight. Anything with a Corgi brightens my day!
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
