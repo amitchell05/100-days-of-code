@@ -233,6 +233,12 @@
 
 **Thoughts**: I made fun changes to People.com's website during studio time tonight. Anything with a Corgi brightens my day!
 
+### Day 40: October 1, 2020
+
+**Today's Progress**: I completed the fetch and JSON reading and exercises for CoderGirl. Also, I worked through more JavaScript exercises from freeCodeCamp (~80% completed!). 
+
+**Thoughts**: This has been a weird day of self-reflection on my future. I need a detailed career development plan.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
