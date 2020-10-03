@@ -239,6 +239,12 @@
 
 **Thoughts**: This has been a weird day of self-reflection on my future. I need a detailed career development plan.
 
+### Day 41: October 2, 2020
+
+**Today's Progress**: After getting help from one of my CoderGirl instructors and a fellow classmate with the initializing my project, I finished my TypeScript exercise! I'm truly grateful for the support I have in CoderGirl. I'll be checking out The Net Ninja tutorials for more practice. It's been a rough week on in various ways, especially for my sleep schedule. I could only attend two virtual presentations at the nodejsday conference because it was an international one (it started at 2 am in my time zone).
+
+**Thoughts**: This weekend's plan: light coding, digital painting, self-care, errands, and SLEEP!!! Will it work out? I'm not sure, but I will try my best.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
