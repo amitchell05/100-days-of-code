@@ -245,6 +245,12 @@
 
 **Thoughts**: This weekend's plan: light coding, digital painting, self-care, errands, and SLEEP!!! Will it work out? I'm not sure, but I will try my best.
 
+### Day 42: October 3, 2020
+
+**Today's Progress**: Short coding day. I completed a few exercises on Coderbyte. I also viewed the first video of The Net Ninja's HTML and CSS Crash Course. Most of my day was focused on applying for an internship position and a full-time position.
+
+**Thoughts**: It is the first time I've applied for a tech job since 2018, which was my first tech job application after graduating from LaunchCode's LC101 program. I'm nervous for various reasons. After receiving encouragement from mentors and classmates, I decided to leap. Geez, this year has involved me taking a TON of leaps. I've done so in the past in some ways, but not this frequently.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
