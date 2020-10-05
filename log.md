@@ -251,6 +251,12 @@
 
 **Thoughts**: It is the first time I've applied for a tech job since 2018, which was my first tech job application after graduating from LaunchCode's LC101 program. I'm nervous for various reasons. After receiving encouragement from mentors and classmates, I decided to leap. Geez, this year has involved me taking a TON of leaps. I've done so in the past in some ways, but not this frequently.
 
+### Day 43: October 4, 2020
+
+**Today's Progress**: I finished a few challenges on HackerRank. My critical thinking and problem-solving skills seem to be improving.
+
+**Thoughts**: Even though I used Google searches for understanding the math concepts of the exercises, my approach seemed to be less off than I feel they are.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
