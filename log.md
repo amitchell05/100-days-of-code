@@ -257,6 +257,12 @@
 
 **Thoughts**: Even though I used Google searches for understanding the math concepts of the exercises, my approach seemed to be less off than I feel they are.
 
+### Day 44: October 5, 2020
+
+**Today's Progress**: Today, I was asked to be a student floater TA again for CoderGirl's catch up day. I got back to working through Colt Steele's Web Developer Bootcamp.
+
+**Thoughts**: I'm grateful to have the opportunity to help others and learn new ways to approach problems. I hope I can improve my ability to explain coding concepts in more diverse ways. For Colt Steele's course, there will be a revision to the program coming this week! I still don't know if I should wait or continue. I've completed ~25% of the course so far.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
