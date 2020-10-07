@@ -263,6 +263,12 @@
 
 **Thoughts**: I'm grateful to have the opportunity to help others and learn new ways to approach problems. I hope I can improve my ability to explain coding concepts in more diverse ways. For Colt Steele's course, there will be a revision to the program coming this week! I still don't know if I should wait or continue. I've completed ~25% of the course so far.
 
+### Day 45: October 6, 2020
+
+**Today's Progress**: In the evening, I did a little more floater TA work in CoderGirl. I did my best to help, but I couldn't figure out how to fix the errors we came across. Yet, once again, the power of SLEEP saved the day!
+
+**Thoughts**: I woke up this morning and figured out a few references that were missing. I left comments in a copy of my classmate's code to detail the approach I took to refactoring a few of the lines and offered to talk through it with them. Hoping that I'm able to help!
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
