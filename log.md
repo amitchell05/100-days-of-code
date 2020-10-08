@@ -269,6 +269,12 @@
 
 **Thoughts**: I woke up this morning and figured out a few references that were missing. I left comments in a copy of my classmate's code to detail the approach I took to refactoring a few of the lines and offered to talk through it with them. Hoping that I'm able to help!
 
+### Day 46: October 7, 2020
+
+**Today's Progress**: We had a great CoderGirl class today covering CSS and more Git topics. I also had fun working in a group on our communication log exercise. It brightened my day being able to learn with and help my classmates use Git.
+
+**Thoughts**: I'm still getting used to Git, but I am a little more comfortable with it now than I was. I encountered it in 2018 through LaunchCode's LC101 program. I'm grateful for LaunchCode's courses, helping me get closer into tech one step at a time.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
