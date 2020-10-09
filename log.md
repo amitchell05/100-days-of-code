@@ -275,6 +275,12 @@
 
 **Thoughts**: I'm still getting used to Git, but I am a little more comfortable with it now than I was. I encountered it in 2018 through LaunchCode's LC101 program. I'm grateful for LaunchCode's courses, helping me get closer into tech one step at a time.
 
+### Day 47: October 8, 2020
+
+**Today's Progress**: This morning, I completed my one-way video interview for a tech position. I was very nervous, but this year, I've been taking leaps of faith. So, I did my best to be authentic as I answered the questions. I pray I'm taking the right steps forward.
+
+**Thoughts**: Also, I was able to help another fellow classmate understand parts of Assignment 3 for CoderGirl. It always lifts my spirits up when I can serve a purpose and help others. 
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
