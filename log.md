@@ -279,7 +279,13 @@
 
 **Today's Progress**: This morning, I completed my one-way video interview for a tech position. I was very nervous, but this year, I've been taking leaps of faith. So, I did my best to be authentic as I answered the questions. I pray I'm taking the right steps forward.
 
-**Thoughts**: Also, I was able to help another fellow classmate understand parts of Assignment 3 for CoderGirl. It always lifts my spirits up when I can serve a purpose and help others. 
+**Thoughts**: Also, I was able to help another fellow classmate understand parts of Assignment 3 for CoderGirl. It always lifts my spirits up when I can serve a purpose and help others.
+
+### Day 48: October 9, 2020
+
+**Today's Progress**: I had an awesome conversation with a classmate about coding, career development, and life today. It helps to learn, brainstorm, and talk about hopes with others, especially during these times. I'm taking things one step at a time and trying to be positive. I hope I can channel that mentally as I work on completing Assignment 4 for CoderGirl on time.
+
+**Thoughts**: I'm making a resume website for the assignment, but impostor syndrome and perfectionism trying to get the best of me. I care about this project a lot! I want to build projects I'm passionate about and showcase them on my website. Art, music, writing, video games, physical and mental well-being...it's all overwhelming. I hope I can choose at least one to focus on.
 
 ## Saved Example
 
