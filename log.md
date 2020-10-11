@@ -287,6 +287,12 @@
 
 **Thoughts**: I'm making a resume website for the assignment, but impostor syndrome and perfectionism trying to get the best of me. I care about this project a lot! I want to build projects I'm passionate about and showcase them on my website. Art, music, writing, video games, physical and mental well-being...it's all overwhelming. I hope I can choose at least one to focus on.
 
+### Day 49: October 10, 2020
+
+**Today's Progress**: Almost 50 days of coding and a month left before the end of Unit 1 in CoderGirl. Time has flown by so fast! Today, I spoke with one of my mentors during his office hours about my progress on Assignment 4. He says I'm on the right track with my HTML setup.
+
+**Thoughts**: Tomorrow, it will be time to style it and bring a design to life for my resume website. I'm nervous, but this project is another important step that can help me become a front-end web developer.
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
