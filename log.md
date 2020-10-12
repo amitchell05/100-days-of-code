@@ -293,6 +293,12 @@
 
 **Thoughts**: Tomorrow, it will be time to style it and bring a design to life for my resume website. I'm nervous, but this project is another important step that can help me become a front-end web developer.
 
+### Day 50: October 11, 2020
+
+**Today's Progress**: Halfway done with the 100-day challenge, but it will not be the end of my coding journey. I've added some styling to my resume website for CoderGirl's Assignment 4!
+
+**Thoughts**: I ended up working on coding at night until 1 a.m. again. Beside my wonky sleep schedule, I enjoyed working on a project that is more based on front-end development. Becoming a front-end web developer is my goal, but I still worry if I will be creative enough. It's inspired by a free design I found online, only applying snippets I like. Hopefully, with time, I'll be able to feel more artistic with web design, like I feel I am with art. #CodeNewbie
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
