@@ -299,6 +299,15 @@
 
 **Thoughts**: I ended up working on coding at night until 1 a.m. again. Beside my wonky sleep schedule, I enjoyed working on a project that is more based on front-end development. Becoming a front-end web developer is my goal, but I still worry if I will be creative enough. It's inspired by a free design I found online, only applying snippets I like. Hopefully, with time, I'll be able to feel more artistic with web design, like I feel I am with art. #CodeNewbie
 
+### Day 51: October 12, 2020
+
+**Today's Progress**: Day 51! Today, I finished Assignments 4 AND 5 for CoderGirl today ahead of schedule, ready to be graded! I love how my resume website is coming together. I hope I can build more projects, gain more experience, and share my progress on my website.
+
+**Thoughts**: I want to keep fixing and improving my website. For now, I've been told I accomplished all of the required parts of the assignment for class.
+
+**Link(s) to work**
+1. [Revise my resume website](https://github.com/amitchell05/html-me-something)
+
 ## Saved Example
 
 ### Day 1: June 27, Monday
