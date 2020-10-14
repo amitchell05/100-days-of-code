@@ -305,17 +305,13 @@
 
 **Thoughts**: I want to keep fixing and improving my website. For now, I've been told I accomplished all of the required parts of the assignment for class.
 
+### Day 52: October 13, 2020
+
+**Today's Progress**: I've been feeling a bit drained mentally from the job search, but I was able to finish CoderGirl's Angular Part 3 reading. The last chapter of the JavaScript book is fairly short. So, I will be done with all of the reading assignments for Unit 1 tomorrow.
+
+**Thoughts**: Time has truly flown by! It's exciting, but also overwhelming. I am determined to become a front-end developer to find a 'joy-money-flow' balance. Joy and flow (work that you are good at) matter the most to me. This is important for me to feel my work is meaningful and authentic.
+
 **Link(s) to work**
 1. [Revise my resume website](https://github.com/amitchell05/html-me-something)
 
-## Saved Example
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: TEXT
-
-**Thoughts** TEXT
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
