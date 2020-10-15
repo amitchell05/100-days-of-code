@@ -313,3 +313,9 @@
 **Today's Progress**: I've been feeling a bit drained mentally from the job search, but I was able to finish CoderGirl's Angular Part 3 reading. The last chapter of the JavaScript book is fairly short. So, I will be done with all of the reading assignments for Unit 1 tomorrow.
 
 **Thoughts**: Time has truly flown by! It's exciting, but also overwhelming. I am determined to become a front-end developer to find a 'joy-money-flow' balance. Joy and flow (work that you are good at) matter the most to me. This is important for me to feel my work is meaningful and authentic.
+
+### Day 53: October 14, 2020
+
+**Today's Progress**: I completed all of the reading assignments in CoderGirl's Unit 1 JavaScript course. I will try my best to review what I have learned by attending different webinars, doing coding exercises, and seeking help with complex coding problems and concepts.
+
+**Thoughts**: Aspects of Angular make sense, but I need more practice to get comfortable with event listeners and data-binding. I will try to practice more this week while doing some self-care after a draining week.
