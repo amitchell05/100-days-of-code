@@ -319,3 +319,9 @@
 **Today's Progress**: I completed all of the reading assignments in CoderGirl's Unit 1 JavaScript course. I will try my best to review what I have learned by attending different webinars, doing coding exercises, and seeking help with complex coding problems and concepts.
 
 **Thoughts**: Aspects of Angular make sense, but I need more practice to get comfortable with event listeners and data-binding. I will try to practice more this week while doing some self-care after a draining week.
+
+### Day 54: October 15, 2020
+
+**Today's Progress**: On Wednesday, I almost completed a CoderGirl studio covering the DOM and events. I ended up getting stumped on the last part. After getting some rest, I was able to solve the final task and bonus section this morning. Rest is a powerful thing...
+
+**Thoughts**: I wish it helped me with decision-making more, though. I want to officially switch my job search focus to tech-related jobs (esp. entry-level/junior front-end developer roles). I've been looking for data entry roles because it's the only work experience I have. But, I do not want to stay on that path for a variety of reasons (a very long story...). Yet, I'm afraid of not being able to find my way into tech because of my lack of work experience. I also have a degree in liberal studies, specializing in art and music. Some blogs say that a liberal studies degree is valuable...and some say they are not. I'm hoping my background, values, and skills can be seen as assets to an organization/company, helping them fulfill meaningful goals.
