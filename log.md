@@ -325,3 +325,12 @@
 **Today's Progress**: On Wednesday, I almost completed a CoderGirl studio covering the DOM and events. I ended up getting stumped on the last part. After getting some rest, I was able to solve the final task and bonus section this morning. Rest is a powerful thing...
 
 **Thoughts**: I wish it helped me with decision-making more, though. I want to officially switch my job search focus to tech-related jobs (esp. entry-level/junior front-end developer roles). I've been looking for data entry roles because it's the only work experience I have. But, I do not want to stay on that path for a variety of reasons (a very long story...). Yet, I'm afraid of not being able to find my way into tech because of my lack of work experience. I also have a degree in liberal studies, specializing in art and music. Some blogs say that a liberal studies degree is valuable...and some say they are not. I'm hoping my background, values, and skills can be seen as assets to an organization/company, helping them fulfill meaningful goals.
+
+### Day 55: October 16, 2020
+
+**Today's Progress**: I got so caught up in working on my first (technically) Frontend Mentor challenge, I ended up working on some of the initial HTML and CSS until 1 AM. Persevering face It's been fun to apply what I've learned from CoderGirl, The Web Developer Bootcamp, and other classes.
+
+**Thoughts**: I don't have much established yet. I am stuck on some things, but feel free to check it out.  I appreciate any feedback to help me become a front-end developer.
+
+**Link(s) to work**
+1. [Continue applying styles to Frontend Mentor challenge project](https://amitchell05.github.io/faq-accordion-card-main/)
