@@ -334,3 +334,12 @@
 
 **Link(s) to work**
 1. [Continue applying styles to Frontend Mentor challenge project](https://amitchell05.github.io/faq-accordion-card-main/)
+
+### Day 56: October 17, 2020
+
+**Today's Progress**: This weekend has given me time to work on solidifying my knowledge of the DOM and events. Carrie, one of CoderGirl's TA, held a Zoom meeting for students who want to practice concepts related to Assignment 5.
+
+**Thoughts**: I completed my assignment Monday. My solution passed today, but I still want to practice more. I also added JavaScript and more styling to my Frontend Mentor challenge project. I'm excited I was able to implement a toggle feature for the headings! If I can figure out how to correctly position the images, reduce the length of dividers, and center the container, I may finish my first Frontend Mentor challenge!
+
+**Link(s) to work**
+1. [Adjust hr width, add images, and center container](https://amitchell05.github.io/faq-accordion-card-main/)
