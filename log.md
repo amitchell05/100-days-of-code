@@ -343,3 +343,12 @@
 
 **Link(s) to work**
 1. [Adjust hr width, add images, and center container](https://amitchell05.github.io/faq-accordion-card-main/)
+
+### Day 57: October 18, 2020
+
+**Today's Progress**: A short, late coding day. I finished a "non-responsive" version of the FAQ accordion page for Frontend Mentor's challenge.
+
+**Thoughts**: I'm excited to learn more about responsive web design soon.
+
+**Link(s) to work**
+1. [Adjust sizes and position of elements/make page responsive](https://amitchell05.github.io/faq-accordion-card-main/)
