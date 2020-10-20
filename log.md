@@ -352,3 +352,9 @@
 
 **Link(s) to work**
 1. [Adjust sizes and position of elements/make page responsive](https://amitchell05.github.io/faq-accordion-card-main/)
+
+### Day 58: October 19, 2020
+
+**Today's Progress**: Today, we covered HTTP, user inputs, and forms in CoderGirl. I also had a great conversation with our new Success Coach and received helpful job prep advice and encouragement. In class, I still struggle with impostor syndrome.
+
+**Thoughts**: I continue to be self-critical of myself and my solutions/approaches to coding problems. In one way, it keeps me grounded and more open-minded. In another way, it hurts my self-esteem. I hope I find a healthy medium.
