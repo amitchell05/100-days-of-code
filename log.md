@@ -358,3 +358,9 @@
 **Today's Progress**: Today, we covered HTTP, user inputs, and forms in CoderGirl. I also had a great conversation with our new Success Coach and received helpful job prep advice and encouragement. In class, I still struggle with impostor syndrome.
 
 **Thoughts**: I continue to be self-critical of myself and my solutions/approaches to coding problems. In one way, it keeps me grounded and more open-minded. In another way, it hurts my self-esteem. I hope I find a healthy medium.
+
+### Day 59: October 20, 2020
+
+**Today's Progress**: Today wasn't a great coding day. I thought I made progress on my faq-accordion-card-main project, but now I'm totally stuck. This is a hard Frontend Mentor challenge for me as a #CodeNewbie. I tried to use a border to see what's going on with my columns.
+
+**Thoughts**: No success, though with the [FAQ Accordion Project](https://github.com/amitchell05/faq-accordion-card-main). If I can't figure it out now, I will probably have to put this project on hold and work on a different challenge.
