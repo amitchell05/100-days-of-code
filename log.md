@@ -364,3 +364,9 @@
 **Today's Progress**: Today wasn't a great coding day. I thought I made progress on my faq-accordion-card-main project, but now I'm totally stuck. This is a hard Frontend Mentor challenge for me as a #CodeNewbie. I tried to use a border to see what's going on with my columns.
 
 **Thoughts**: No success, though with the [FAQ Accordion Project](https://github.com/amitchell05/faq-accordion-card-main). If I can't figure it out now, I will probably have to put this project on hold and work on a different challenge.
+
+### Day 60: October 21, 2020
+
+**Today's Progress**: With help from a developer on Slack, I was able to get a mobile version of my FAQ Accordion page working...somewhat. I think I will take a break from this one and work on another Frontend Mentor project or try other programming challenges. In CoderGirl, we covered fetch and JSON. We are learning more terminology, which is exciting and scary at the same time. We've covered a lot of topics in two months or more. In a few weeks, Unit 1 will be done! In Unit 2, we will get into more front-end topics.
+
+**Thoughts**: I am grateful that I have knowledge of full-stack development from LaunchCode's LC101 2018 cohort. Yet, I truly want to be a front-end developer. It's a role I have a strong passion for. I'm looking forward to CoderGirl's Unit 2!
