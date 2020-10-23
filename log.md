@@ -370,3 +370,9 @@
 **Today's Progress**: With help from a developer on Slack, I was able to get a mobile version of my FAQ Accordion page working...somewhat. I think I will take a break from this one and work on another Frontend Mentor project or try other programming challenges. In CoderGirl, we covered fetch and JSON. We are learning more terminology, which is exciting and scary at the same time. We've covered a lot of topics in two months or more. In a few weeks, Unit 1 will be done! In Unit 2, we will get into more front-end topics.
 
 **Thoughts**: I am grateful that I have knowledge of full-stack development from LaunchCode's LC101 2018 cohort. Yet, I truly want to be a front-end developer. It's a role I have a strong passion for. I'm looking forward to CoderGirl's Unit 2!
+
+### Day 61: October 22, 2020
+
+**Today's Progress**: I kept hitting brick walls with my Frontend Mentor challenges today. I did solve a tricky bonus mission in yesterday's fetch and JSON studio for CoderGirl, though. It involved applying a CSS style to HTML after using innerHTML to create an HTML page.
+
+**Thoughts**: I hope I explained that right. I've been feeling more insecure and worried about things. Tomorrow, I will try to take things easier. Since I've completed all of my reading, exercise, and studio assignments, I can hopefully give myself permission to stop pushing myself so hard.
