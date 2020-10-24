@@ -376,3 +376,14 @@
 **Today's Progress**: I kept hitting brick walls with my Frontend Mentor challenges today. I did solve a tricky bonus mission in yesterday's fetch and JSON studio for CoderGirl, though. It involved applying a CSS style to HTML after using innerHTML to create an HTML page.
 
 **Thoughts**: I hope I explained that right. I've been feeling more insecure and worried about things. Tomorrow, I will try to take things easier. Since I've completed all of my reading, exercise, and studio assignments, I can hopefully give myself permission to stop pushing myself so hard.
+
+### Day 62: October 23, 2020
+
+**Today's Progress**: Day 62. I tried to take things easier, but I still ended up hitting brick walls with my Frontend Mentor challenges and my digital painting.
+
+**Thoughts**: Yet, I am still determined to become a front-end developer. I want to become proficient with Flexbox, Bootstrap, SIZING... No one is meant to know everything or be perfect. Yet, it's a mindset I easily fall into time and time again. So, I will try to be the best I can be and continue aiming to have a growth mindset.
+
+**Link(s) to work**
+1. [Challenge 1](https://amitchell05.github.io/faq-accordion-card-main/)
+2. [Challenge 2](https://github.com/amitchell05/single-price-grid-component-master)
+3. [Challenge 3](https://github.com/amitchell05/huddle-landing-intro)
