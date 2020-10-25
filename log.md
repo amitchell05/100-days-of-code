@@ -387,3 +387,9 @@
 1. [Challenge 1](https://amitchell05.github.io/faq-accordion-card-main/)
 2. [Challenge 2](https://github.com/amitchell05/single-price-grid-component-master)
 3. [Challenge 3](https://github.com/amitchell05/huddle-landing-intro)
+
+### Day 63: October 24, 2020
+
+**Today's Progress**: Day 63. I had to convince myself to refocus on CoderGirl and only ONE supplemental material (The Web Developer Bootcamp). I tried to explore many different resources while I prepare for Assignment 6 to be published.
+
+**Thoughts**: But, I got carried away and became overwhelmed. I'm working through the new version of Colt Steele's course, reviewing HTML essentials. Also, I attended Part 2 of TA Carrie's Assignment 5 prep sessions. I completed Assignment 5 a week or so ago. Still, I wanted to review how events, fetch, JSON, and the DOM gets used in a variety of projects. Carrie demonstrated how we can use them to display and interact with APIs. It was a great learning experience!
