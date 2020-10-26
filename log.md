@@ -393,3 +393,9 @@
 **Today's Progress**: Day 63. I had to convince myself to refocus on CoderGirl and only ONE supplemental material (The Web Developer Bootcamp). I tried to explore many different resources while I prepare for Assignment 6 to be published.
 
 **Thoughts**: But, I got carried away and became overwhelmed. I'm working through the new version of Colt Steele's course, reviewing HTML essentials. Also, I attended Part 2 of TA Carrie's Assignment 5 prep sessions. I completed Assignment 5 a week or so ago. Still, I wanted to review how events, fetch, JSON, and the DOM gets used in a variety of projects. Carrie demonstrated how we can use them to display and interact with APIs. It was a great learning experience!
+
+### Day 64: October 25, 2020
+
+**Today's Progress**: Day 64. Keeping my focus a little more narrow with my studies has helped reduce some of the stress. After revising my resume and LinkedIn page, I did a few short exercises in the Basic JavaScript module on freecodecamp.
+
+**Thoughts**: Recursion and radix (for parseInt()) are still terrifying, but it seems like I am grasping loops better. I'm almost done with the module. I will probably need to review it all again later, though.
