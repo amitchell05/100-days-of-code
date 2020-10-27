@@ -399,3 +399,9 @@
 **Today's Progress**: Day 64. Keeping my focus a little more narrow with my studies has helped reduce some of the stress. After revising my resume and LinkedIn page, I did a few short exercises in the Basic JavaScript module on freecodecamp.
 
 **Thoughts**: Recursion and radix (for parseInt()) are still terrifying, but it seems like I am grasping loops better. I'm almost done with the module. I will probably need to review it all again later, though.
+
+### Day 65: October 26, 2020
+
+**Today's Progress**: Day 65. I completed the TypeScript studio we had during our CoderGirl class tonight. I did pretty well until I got to declaring arrays that are from classes. I forgot to add the class name. I'll have to review this exercise to make sure I understand everything.
+
+**Thougths**: Even though I'm mainly focusing on CoderGirl and Colt Steele's Web Developer Bootcamp Udemy course, I did peek at some fun tutorials online. I found a great Flexbox tutorial that's a tower defense game. It helps me visualize how the properties function.
