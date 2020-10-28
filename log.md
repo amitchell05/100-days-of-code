@@ -405,3 +405,9 @@
 **Today's Progress**: Day 65. I completed the TypeScript studio we had during our CoderGirl class tonight. I did pretty well until I got to declaring arrays that are from classes. I forgot to add the class name. I'll have to review this exercise to make sure I understand everything.
 
 **Thougths**: Even though I'm mainly focusing on CoderGirl and Colt Steele's Web Developer Bootcamp Udemy course, I did peek at some fun tutorials online. I found a great Flexbox tutorial that's a tower defense game. It helps me visualize how the properties function.
+
+### Day 66: October 27, 2020
+
+**Today's Progress**: Day 66. Any video games for TypeScript? I think I need to find one to solve the counting mission for my final assignment in CoderGirl's for Unit 1. I completed the required parts, but I want to understand it all as much as possible.
+
+**Thoughts**: I also attended some of the Next.js conference events. I will try to watch the rest of the presentation this week. Looking forward to learning React someday so I can use it!
