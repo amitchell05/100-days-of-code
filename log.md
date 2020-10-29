@@ -411,3 +411,9 @@
 **Today's Progress**: Day 66. Any video games for TypeScript? I think I need to find one to solve the counting mission for my final assignment in CoderGirl's for Unit 1. I completed the required parts, but I want to understand it all as much as possible.
 
 **Thoughts**: I also attended some of the Next.js conference events. I will try to watch the rest of the presentation this week. Looking forward to learning React someday so I can use it!
+
+### Day 67: October 28, 2020
+
+**Today's Progress**: Day 67 (belated)! Yesterday was a busy coding day. I finished all of the requirements for the 6th and final assignment of CoderGirl's Unit 1 section! I'm still stuck on a bonus mission, but I hope I will get closer to a solution this week.
+
+**Thoughts**: I also got to help classmates during our catch-up class. It brings me joy to be able to help others. It's also awesome to learn new things in the process.
