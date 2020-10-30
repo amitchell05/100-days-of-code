@@ -417,3 +417,9 @@
 **Today's Progress**: Day 67 (belated)! Yesterday was a busy coding day. I finished all of the requirements for the 6th and final assignment of CoderGirl's Unit 1 section! I'm still stuck on a bonus mission, but I hope I will get closer to a solution this week.
 
 **Thoughts**: I also got to help classmates during our catch-up class. It brings me joy to be able to help others. It's also awesome to learn new things in the process.
+
+### Day 68: October 29, 2020
+
+**Today's Progress**: Day 68! All of my bonus missions for Assignment 6 in CoderGirl's Unit 1 are done! After reviewing different approaches online, I implemented a solution for the second bonus mission. The first and third ones were easier than the second one.
+
+**Thoughts**: I'm ashamed I couldn't figure it out without looking at how others approached that problem. Hopefully, I can rely on Angular documentation and continue to improve my problem-solving skills.
