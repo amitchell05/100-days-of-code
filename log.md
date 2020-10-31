@@ -423,3 +423,9 @@
 **Today's Progress**: Day 68! All of my bonus missions for Assignment 6 in CoderGirl's Unit 1 are done! After reviewing different approaches online, I implemented a solution for the second bonus mission. The first and third ones were easier than the second one.
 
 **Thoughts**: I'm ashamed I couldn't figure it out without looking at how others approached that problem. Hopefully, I can rely on Angular documentation and continue to improve my problem-solving skills.
+
+### Day 69: October 30, 2020
+
+**Today's Progress**: A front-end developer in Frontend Mentor's Slack group forked my code and gave me suggestions on how to make it better and more accurate. After following her advice, I made changes to the mobile view of my project.
+
+**Thoughts**: As Unit 2 in CoderGirl draws near, I will need to come up with a manageable study schedule to learn more about CSS and responsive design. Looking forward to what I will build next!
