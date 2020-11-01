@@ -429,3 +429,9 @@
 **Today's Progress**: A front-end developer in Frontend Mentor's Slack group forked my code and gave me suggestions on how to make it better and more accurate. After following her advice, I made changes to the mobile view of my project.
 
 **Thoughts**: As Unit 2 in CoderGirl draws near, I will need to come up with a manageable study schedule to learn more about CSS and responsive design. Looking forward to what I will build next!
+
+### Day 70: November 1, 2020
+
+**Today's Progress**: Day 70! 30 days left of the challenge, but it will not be the end of my coding journey. My final assignment for CoderGirl's Unit 1 course has been graded! My mentors provided positive feedback about my progress and encouraged me to continue growing as a developer.
+
+**Thoughts**: I'm excited for the next part of my journey into tech and another step closer to being a front-end developer. Today, I also completed my first Frontend Mentor Newbie challenge after receiving feedback on Slack. I still need to understand positioning and sizing more, though. Looking forward to the last two weeks of Unit 1!
