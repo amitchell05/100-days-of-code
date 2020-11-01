@@ -430,7 +430,7 @@
 
 **Thoughts**: As Unit 2 in CoderGirl draws near, I will need to come up with a manageable study schedule to learn more about CSS and responsive design. Looking forward to what I will build next!
 
-### Day 70: November 1, 2020
+### Day 70: October 31, 2020
 
 **Today's Progress**: Day 70! 30 days left of the challenge, but it will not be the end of my coding journey. My final assignment for CoderGirl's Unit 1 course has been graded! My mentors provided positive feedback about my progress and encouraged me to continue growing as a developer.
 
