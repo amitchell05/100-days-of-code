@@ -438,6 +438,6 @@
 
 ### Day 71: November 1, 2020
 
-**Today's Progress: Day 71. I received positive feedback on my first solution submission on Frontend Mentors website! I'm grateful to the fellow developers in the Slack community who helped me refactor my code. I hope I continue to improve my understanding of CSS with more practice.
+**Today's Progress**: Day 71. I received positive feedback on my first solution submission on Frontend Mentors website! I'm grateful to the fellow developers in the Slack community who helped me refactor my code. I hope I continue to improve my understanding of CSS with more practice.
 
 **Thoughts**: I completed the second revised HTML section of Colt Steele's Web Developer Bootcamp on Udemy. I'm understanding how I can use semantic  HTML to make websites more organized, meaningful, and accessible.
