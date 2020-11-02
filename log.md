@@ -435,3 +435,9 @@
 **Today's Progress**: Day 70! 30 days left of the challenge, but it will not be the end of my coding journey. My final assignment for CoderGirl's Unit 1 course has been graded! My mentors provided positive feedback about my progress and encouraged me to continue growing as a developer.
 
 **Thoughts**: I'm excited for the next part of my journey into tech and another step closer to being a front-end developer. Today, I also completed my first Frontend Mentor Newbie challenge after receiving feedback on Slack. I still need to understand positioning and sizing more, though. Looking forward to the last two weeks of Unit 1!
+
+### Day 71: November 1, 2020
+
+**Today's Progress: Day 71. I received positive feedback on my first solution submission on Frontend Mentors website! I'm grateful to the fellow developers in the Slack community who helped me refactor my code. I hope I continue to improve my understanding of CSS with more practice.
+
+**Thoughts**: I completed the second revised HTML section of Colt Steele's Web Developer Bootcamp on Udemy. I'm understanding how I can use semantic  HTML to make websites more organized, meaningful, and accessible.
