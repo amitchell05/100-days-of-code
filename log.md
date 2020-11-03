@@ -441,3 +441,9 @@
 **Today's Progress**: Day 71. I received positive feedback on my first solution submission on Frontend Mentors website! I'm grateful to the fellow developers in the Slack community who helped me refactor my code. I hope I continue to improve my understanding of CSS with more practice.
 
 **Thoughts**: I completed the second revised HTML section of Colt Steele's Web Developer Bootcamp on Udemy. I'm understanding how I can use semantic  HTML to make websites more organized, meaningful, and accessible.
+
+### Day 72: November 2, 2020
+
+**Today's Progress**: Day 72! I completed CoderGirl's Angular Part 1 Studio in class tonight. I feel like I understand how templates in Angular work more. Also, I revised another one of my projects for Frontend Mentor without using Bootstrap. I think I'm getting the hang of CSS.
+
+**Thoughts**: I can't wait until I get to try the next level of the Frontend Mentor challenges!
