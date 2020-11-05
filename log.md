@@ -447,3 +447,15 @@
 **Today's Progress**: Day 72! I completed CoderGirl's Angular Part 1 Studio in class tonight. I feel like I understand how templates in Angular work more. Also, I revised another one of my projects for Frontend Mentor without using Bootstrap. I think I'm getting the hang of CSS.
 
 **Thoughts**: I can't wait until I get to try the next level of the Frontend Mentor challenges!
+
+### Day 73: November 3, 2020
+
+**Today's Progress**: Day 73. It's been an emotional coding day. I did get positive feedback on my Gigasecond solution for Exercism. I made only a little progress with CodeWars' challenges, though.
+
+**Thoughts**: I also took a problem-solving assessment for a job application. I don't think it went good either. I know it's part of the process, but it's frustrating to feel defeated on and off. 😔 I hope I feel better tomorrow with my studies after I get more rest and give myself a LONG pep talk. I hope for good news for the world overall.
+
+### Day 74: November 4, 2020
+
+**Today's Progress**: Day 74. I went through some Edabit challenges online (the very easy ones). It was nice to complete some if the challenges, no matter how small the accomplishments may seem on the surface.
+
+**Thoughts**: Next week is the last week of Unit 1 in CoderGirl. Even though I constantly doubt myself, I do feel like I've grasped more of the concepts of JavaScript and Angular since my first time studying the course materials on my own. Also, I received encouragement from a classmate from LaunchCode's LC101. Again, I always doubt my abilities, but it means a lot to hear others notice how hard I'm working and how much it would mean to me to transition into tech. I want to find a job that brings me joy, allows me to be authentic and creative, and utilizes my strengths to build meaningful things in this world. I hope and pray that my efforts lead me to making dream become reality.
