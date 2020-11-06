@@ -459,3 +459,10 @@
 **Today's Progress**: Day 74. I went through some Edabit challenges online (the very easy ones). It was nice to complete some if the challenges, no matter how small the accomplishments may seem on the surface.
 
 **Thoughts**: Next week is the last week of Unit 1 in CoderGirl. Even though I constantly doubt myself, I do feel like I've grasped more of the concepts of JavaScript and Angular since my first time studying the course materials on my own. Also, I received encouragement from a classmate from LaunchCode's LC101. Again, I always doubt my abilities, but it means a lot to hear others notice how hard I'm working and how much it would mean to me to transition into tech. I want to find a job that brings me joy, allows me to be authentic and creative, and utilizes my strengths to build meaningful things in this world. I hope and pray that my efforts lead me to making dream become reality.
+
+### Day 75: November 5, 2020
+
+**Today's Progress**: Day 75. I completed most of the last section covering HTML in Colt Steele's Web Developer Bootcamp. I've gained a better understanding of forms, inputs, and the label tag. I mostly reflected on job preparation after attending a Women Who Code event online.
+
+**Thoughts**: One of the biggest challenges is low self-esteem. I'm in a boss battle without the right attributes/skills. It's been hard to overcome. I will have to find resources to help me build it up.
+
