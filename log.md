@@ -466,3 +466,14 @@
 
 **Thoughts**: One of the biggest challenges is low self-esteem. I'm in a boss battle without the right attributes/skills. It's been hard to overcome. I will have to find resources to help me build it up.
 
+### Day 76: November 6, 2020
+
+**Today's Progress**: Both days were similar. I worked on more Edabit challenges, refactoring my solutions as I learned different ways of solving them. Today, I completed/"graduated" from Colt Steele's HTML section in his bootcamp online. The next sections cover CSS.
+
+**Thoughts**: As a side note, today's events have been inspiring and uplifting. I'm still struggling with figuring out when and how to become a front-end developer. I wonder if I should stop applying for apprenticeships and jobs until I'm ready. Yet, applying may give me the opportunity to know what my strengths are and what areas I need further develop. I hope I can find a healthy balance of studying and applying for jobs.
+
+### Day 77: November 7, 2020
+
+**Today's Progress**: Refer to Day 76 entry
+
+**Thoughts**: Refer to Day 76 entry
