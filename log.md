@@ -477,3 +477,9 @@
 **Today's Progress**: Refer to Day 76 entry
 
 **Thoughts**: Refer to Day 76 entry
+
+### Day 78: November 8, 2020
+
+**Today's Progress**: Today, I completed Coding Fundamentals II on Grasshopper! Also, I tried a few more problems on SoloLearn's JavaScript course and worked through some of Colt Steele's CSS section. Some of the concepts covered were refreshers, but I feel it's always needed.
+
+**Thoughts**: Even if some things are sticking, I feel I need to continue covering them and actively apply them to a project. If I have time before CoderGirl's last lecture class for Unit 1 tomorrow, I may try to finish one of the Frontend Mentor challenges I received feedback on. I'm excited and nervous about Unit 2 because it's another step closer to finding an apprenticeship or first front-end developer job.
