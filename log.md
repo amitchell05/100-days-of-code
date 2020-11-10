@@ -483,3 +483,9 @@
 **Today's Progress**: Today, I completed Coding Fundamentals II on Grasshopper! Also, I tried a few more problems on SoloLearn's JavaScript course and worked through some of Colt Steele's CSS section. Some of the concepts covered were refreshers, but I feel it's always needed.
 
 **Thoughts**: Even if some things are sticking, I feel I need to continue covering them and actively apply them to a project. If I have time before CoderGirl's last lecture class for Unit 1 tomorrow, I may try to finish one of the Frontend Mentor challenges I received feedback on. I'm excited and nervous about Unit 2 because it's another step closer to finding an apprenticeship or first front-end developer job.
+
+### Day 79: November 9, 2020
+
+**Today's Progress**: Day 79 (belated)! Yesterday was the last official day of CoderGirl's Unit 1 course. Wednesday will be a catch-up day. Tomorrow will also give students a chance to preview Unit 2. I'm excited to learn more about Angular and responsive web design.
+
+**Thoughts**: This week, I've been trying out different tutorial apps as a quick, fun way to reinforce what I've learned in CoderGirl. The job search still worries me, but I need to be patient with myself and take this time to hone my skills to prepare for a front-end developer role. If the worry becomes too overwhelming, I may need to put my job search on hold until after Unit 3. I'm still unsure about which strategy is best for job development. For now, I will embrace the positives.
