@@ -486,6 +486,12 @@
 
 ### Day 79: November 9, 2020
 
-**Today's Progress**: Day 79 (belated)! Yesterday was the last official day of CoderGirl's Unit 1 course. Wednesday will be a catch-up day. Tomorrow will also give students a chance to preview Unit 2. I'm excited to learn more about Angular and responsive web design.
+**Today's Progress**: Today was the last official day of CoderGirl's Unit 1 course. Wednesday will be a catch-up day. Tomorrow will also give students a chance to preview Unit 2. I'm excited to learn more about Angular and responsive web design.
 
 **Thoughts**: This week, I've been trying out different tutorial apps as a quick, fun way to reinforce what I've learned in CoderGirl. The job search still worries me, but I need to be patient with myself and take this time to hone my skills to prepare for a front-end developer role. If the worry becomes too overwhelming, I may need to put my job search on hold until after Unit 3. I'm still unsure about which strategy is best for job development. For now, I will embrace the positives.
+
+### Day 80 through 82: November 10, 2020 through November 12, 2020
+
+**Progress**: Three days without recording my progress? This has been an up and down week for me. Overall, I completed CoderGirl's Unit 1! I'm grateful to LaunchCode for the opportunity to join CoderGirl's Front-End track. I enjoyed getting more experience with Angular, JavaScript, HTML, CSS, and Git. Working through the materials with others has helped solidify more of what I learned when I read the materials before I started CoderGirl in August.
+
+**Thoughts**: My fears about the job search continue to rise and slightly fall. Tonight's speakers at LaunchCode's Alumni Speaker event were inspirational! It gives me hope that I can transition into tech as a woman of color. I do still worry about my self-esteem and how it could affect how employers and employees see me, but I'm determined to improve my self-esteem and ability to be more comfortable expressing my passions for technology and art in job intervews.
