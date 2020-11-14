@@ -495,3 +495,9 @@
 **Progress**: Three days without recording my progress? This has been an up and down week for me. Overall, I completed CoderGirl's Unit 1! I'm grateful to LaunchCode for the opportunity to join CoderGirl's Front-End track. I enjoyed getting more experience with Angular, JavaScript, HTML, CSS, and Git. Working through the materials with others helped solidify more of what I learned when I read the materials before I started CoderGirl in August.
 
 **Thoughts**: My fears about the job search continue to rise and fall. Tonight's speakers at LaunchCode's Alumni Speaker event were inspirational! It gives me hope that I can transition into tech as a woman of color. I do still worry about my self-esteem and how it could affect how employers and employees see me. Still, I'm determined to improve my self-esteem and ability to be more comfortable expressing my passions for technology and art in job interviews.
+
+### Day 83: November 13, 2020
+
+**Today's Progress**: #100DaysOfCode Day 83! Today, I mainly focused on Grasshopper to practice HTML, CSS, and JavaScript.
+
+**Thoughts**: Also, I can work on the front-end course materials for the first day of Unit 2 in CoderGirl. A tough goal for Unit 2: worry less!
