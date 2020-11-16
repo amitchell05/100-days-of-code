@@ -501,3 +501,9 @@
 **Today's Progress**: #100DaysOfCode Day 83! Today, I mainly focused on Grasshopper to practice HTML, CSS, and JavaScript.
 
 **Thoughts**: Also, I can work on the front-end course materials for the first day of Unit 2 in CoderGirl. A tough goal for Unit 2: worry less!
+
+### Day 84 and 85: November 14, 2020 and November 15, 2020
+
+**Progress**: I completed section 1 and a third of section 2 of the Angular course on Udemy for CoderGirl's Unit 2. I have a better understanding of how to generate and use components in Angular. I need practice explaining the process into words, though.
+
+**Thoughts**: Also, I attended a webinar about interview preparation today. My self-perception and search for my authentic self are making it hard to find a tech job. I'll have to work on a game plan with my support system so I can achieve my goals.
