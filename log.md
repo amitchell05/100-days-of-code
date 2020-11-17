@@ -507,3 +507,9 @@
 **Progress**: I completed section 1 and a third of section 2 of the Angular course on Udemy for CoderGirl's Unit 2. I have a better understanding of how to generate and use components in Angular. I need practice explaining the process into words, though.
 
 **Thoughts**: Also, I attended a webinar about interview preparation today. My self-perception and search for my authentic self are making it hard to find a tech job. I'll have to work on a game plan with my support system so I can achieve my goals.
+
+### Day 86: November 16, 2020
+
+**Today's Progress**: I'm almost done with the second part of the Section 2 in the Angular course. I learned about string interpolation and property binding and when to use each.
+
+**Thoughts**: I also applied for more jobs, but no success yet with getting an interview. Pensive face Perhaps, God is telling me it's not time yet and that I need to focus more on honing my skills and improve my self-esteem.
