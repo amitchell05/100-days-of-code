@@ -513,3 +513,20 @@
 **Today's Progress**: I'm almost done with the second part of the Section 2 in the Angular course. I learned about string interpolation and property binding and when to use each.
 
 **Thoughts**: I also applied for more jobs, but no success yet with getting an interview. Pensive face Perhaps, God is telling me it's not time yet and that I need to focus more on honing my skills and improve my self-esteem.
+
+### Day 87: November 17, 2020
+
+**Today's Progress**: I completed my Angular prep work for CoderGirl's Unit 2, which starts on Monday. I got more practice with data binding, but I will continue to review the materials before next week's first day of class.
+
+**Thoughts**: I also passed LinkedIn's JavaScript and CSS skill tests! I will have to practice more for HTML and other tests I may need to take. It made me feel a little better about the progress I've made.
+
+### Day 88: November 18, 2020
+
+**Today's Progress**: I completed another Frontend Mentor challenge yesterday! I still have a few improvements to make on this one, though.
+
+**Thoughts**: These challenges are amazing! I've learned a lot from doing them and getting feedback from other developers.
+
+**Link(s) to work**
+1. [Adjust sizing for price grid](https://www.frontendmentor.io/solutions/html-page-using-css-flexbox-for-mobile-view-and-grid-for-desktop-view-VVROpWdy6)
+2. [Adjust max-width for main and spacing between headings](https://www.frontendmentor.io/solutions/four-card-feature-section-with-html-and-vanilla-css-q2jF2DbfWW)
+3. [Continue working on styling and sizing for profile card](https://github.com/amitchell05/profile-card-component-main)
