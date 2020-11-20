@@ -530,3 +530,9 @@
 1. [Adjust sizing for price grid](https://www.frontendmentor.io/solutions/html-page-using-css-flexbox-for-mobile-view-and-grid-for-desktop-view-VVROpWdy6)
 2. [Adjust max-width for main and spacing between headings](https://www.frontendmentor.io/solutions/four-card-feature-section-with-html-and-vanilla-css-q2jF2DbfWW)
 3. [Continue working on styling and sizing for profile card](https://github.com/amitchell05/profile-card-component-main)
+
+### Day 89: November 19, 2020
+
+**Today's Progress**: I'm sorry for all the late posts. These past few days have been BUSY! Yesterday, I continued to revise my Frontend Mentor solutions and got positive feedback on my adjustments. I completed all of the Grasshopper exercises except automation.
+
+**Thoughts**: I've also attended various webinars and conducted more research on open-source projects. I will soon start this open-source tutorial on GitHub: https://github.com/firstcontributions/first-contributions.  Looking forward to making my first contribution!
