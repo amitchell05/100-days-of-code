@@ -536,3 +536,9 @@
 **Today's Progress**: I'm sorry for all the late posts. These past few days have been BUSY! Yesterday, I continued to revise my Frontend Mentor solutions and got positive feedback on my adjustments. I completed all of the Grasshopper exercises except automation.
 
 **Thoughts**: I've also attended various webinars and conducted more research on open-source projects. I will soon start this open-source tutorial on GitHub: https://github.com/firstcontributions/first-contributions.  Looking forward to making my first contribution!
+
+### Day 90: November 20, 2020
+
+**Today's Progress**: I have ten days left of the challenge! I continued working on my Frontend Mentors' Newbie challenges. Also, I completed the automation course on Grasshopper. For now, I finished all of the content on Grasshopper, but I may go back to practice more.
+
+**Thoughts**: Tomorrow is the first day of Unit 2. I know it's repetitive of me to say, but I'm still excited and nervous about getting deeper into Angular. The daily practice of building Angular projects is helping me, though.
