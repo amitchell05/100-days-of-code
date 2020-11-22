@@ -542,3 +542,9 @@
 **Today's Progress**: I have ten days left of the challenge! I continued working on my Frontend Mentors' Newbie challenges. Also, I completed the automation course on Grasshopper. For now, I finished all of the content on Grasshopper, but I may go back to practice more.
 
 **Thoughts**: Tomorrow is the first day of Unit 2. I know it's repetitive of me to say, but I'm still excited and nervous about getting deeper into Angular. The daily practice of building Angular projects is helping me, though.
+
+### Day 91: November 21, 2020
+
+**Today's Progress**: I completed a draft of a To-Do app using Angular. I worry that I relied on reviewing my past projects from class to understand or replicate some aspects of the code in my own app.
+
+**Thoughts**: Building with Angular is gradually getting less scary, especially with creating and using components. Hopefully, I feel more comfortable with Angular when we start Unit 2 of CoderGirl this Monday.
