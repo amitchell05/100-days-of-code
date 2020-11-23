@@ -548,3 +548,9 @@
 **Today's Progress**: I completed a draft of a To-Do app using Angular. I worry that I relied on reviewing my past projects from class to understand or replicate some aspects of the code in my own app.
 
 **Thoughts**: Building with Angular is gradually getting less scary, especially with creating and using components. Hopefully, I feel more comfortable with Angular when we start Unit 2 of CoderGirl this Monday.
+
+### Day 92: November 22, 2020
+
+**Today's Progress**: I had a busy Sunday filled with Zoom calls to family members and coding groups. I'm working on an app with a team of developers, CoderGirl classmates and other members in the tech field for a non-profit organization.
+
+**Thoughts**: Buliding applications and websites for non-profits is one of my top career goals. I'm grateful for the opportunity to participate in this project. If allowed, I'll share more about it and  how it goes.
