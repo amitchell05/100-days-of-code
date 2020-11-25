@@ -554,3 +554,15 @@
 **Today's Progress**: I had a busy Sunday filled with Zoom calls to family members and coding groups. I'm working on an app with a team of developers, CoderGirl classmates and other members in the tech field for a non-profit organization.
 
 **Thoughts**: Buliding applications and websites for non-profits is one of my top career goals. I'm grateful for the opportunity to participate in this project. If allowed, I'll share more about it and  how it goes.
+
+### Day 93: November 23, 2020
+
+**Today's Progress: Monday was the first day of CoderGirl's Unit 2! I was excited to get started with learning more about Angular. I'm enjoying that the Front-End class size is less than 20 because it gives us more opportunities to get to know each other better.
+
+**Thoughts**: Speaking of that, we had an awesome ice breaker question: if you were trapped in a room for 24 months, what three things would you need to prevent you from going crazy?
+
+### Day 94: November 24, 2020
+
+**Today's Progress**: On Tuesday, I focused on Section 3 of our Angular course. I had more practice with creating components for our class project. I didn't know how to nest components without manually moving files. But, it's explained further in the video.
+
+**Thoughts**: I'm halfway done with Section 3.and Section 4 is short. It's going to be a busy, busy, BUSY!
