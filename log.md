@@ -566,3 +566,9 @@
 **Today's Progress**: On Tuesday, I focused on Section 3 of our Angular course. I had more practice with creating components for our class project. I didn't know how to nest components without manually moving files. But, it's explained further in the video.
 
 **Thoughts**: I'm halfway done with Section 3.and Section 4 is short. It's going to be a busy, busy, BUSY!
+
+### Day 95: November 25, 2020
+
+**Today's Progress**: I completed Sections 3 and 4 for next week's CoderGirl's Unit 2 class day. I'm working on revising my notes so I can understand concepts better. We also had our second meeting for the pro bono project, mapping out Trello cards.
+
+**Thoughts**: I'm excited and nervous about it because I'm new to collaborating outside of a class setting. Still, I'm determined to learn and help bring this app to life for a great cause.
