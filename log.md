@@ -572,3 +572,9 @@
 **Today's Progress**: I completed Sections 3 and 4 for next week's CoderGirl's Unit 2 class day. I'm working on revising my notes so I can understand concepts better. We also had our second meeting for the pro bono project, mapping out Trello cards.
 
 **Thoughts**: I'm excited and nervous about it because I'm new to collaborating outside of a class setting. Still, I'm determined to learn and help bring this app to life for a great cause.
+
+### Day 96: November 26, 2020
+
+**Today's Progress**: Yesterday was mainly dedicated to Thanksgiving and relaxation. I hope everyone had a safe holiday. I will keep those who have lost loved ones this year in my thoughts and prayers. It's painful dealing with holidays after losing a loved one.
+
+**Thoughts**: I did get some time to work on the non-profit app. I received helpful feedback from a team member. Now, I will need to do some research on implementing the right tests.
