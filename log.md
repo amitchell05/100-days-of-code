@@ -578,3 +578,9 @@
 **Today's Progress**: Yesterday was mainly dedicated to Thanksgiving and relaxation. I hope everyone had a safe holiday. I will keep those who have lost loved ones this year in my thoughts and prayers. It's painful dealing with holidays after losing a loved one.
 
 **Thoughts**: I did get some time to work on the non-profit app. I received helpful feedback from a team member. Now, I will need to do some research on implementing the right tests.
+
+### Day 97: November 27, 2020
+
+**Today's Progress**: I hit a TON of brick walls with unit testing for the pro bono project and styling for my Frontend Mentor challenge.
+
+**Thoughts**: I'm going to bed earlier (aka 12:30am ish). I hope the power of rest will lead to some answers and reduce my anxiety.
