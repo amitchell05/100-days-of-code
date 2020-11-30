@@ -557,7 +557,7 @@
 
 ### Day 93: November 23, 2020
 
-**Today's Progress: Monday was the first day of CoderGirl's Unit 2! I was excited to get started with learning more about Angular. I'm enjoying that the Front-End class size is less than 20 because it gives us more opportunities to get to know each other better.
+**Today's Progress**: Monday was the first day of CoderGirl's Unit 2! I was excited to get started with learning more about Angular. I'm enjoying that the Front-End class size is less than 20 because it gives us more opportunities to get to know each other better.
 
 **Thoughts**: Speaking of that, we had an awesome ice breaker question: if you were trapped in a room for 24 months, what three things would you need to prevent you from going crazy?
 
@@ -584,3 +584,9 @@
 **Today's Progress**: I hit a TON of brick walls with unit testing for the pro bono project and styling for my Frontend Mentor challenge.
 
 **Thoughts**: I'm going to bed earlier (aka 12:30am ish). I hope the power of rest will lead to some answers and reduce my anxiety.
+
+### Day 98 and 99: November 28, 2020
+
+**Today's Progress**: One day left before my first run through the challenge is complete! I've mainly focused on reviewing Angular course materials for CoderGirl's class on Monday. I did work through HTML & CSS I of Progate, though. I also had a fun, inspirational meeting with a LaunchCode alumna yesterday. It was great to talk about our journey into tech with an arts background.
+
+**Thoughts**: I also have another project idea to consider for my portfolio. I'm excited and anxious about it. I'm overwhelmed by my busy study schedule. I will have to drop one of my smaller projects again. I want to dedicate my time to non-profit, school, and passion projects.
