@@ -590,3 +590,9 @@
 **Today's Progress**: One day left before my first run through the challenge is complete! I've mainly focused on reviewing Angular course materials for CoderGirl's class on Monday. I did work through HTML & CSS I of Progate, though. I also had a fun, inspirational meeting with a LaunchCode alumna yesterday. It was great to talk about our journey into tech with an arts background.
 
 **Thoughts**: I also have another project idea to consider for my portfolio. I'm excited and anxious about it. I'm overwhelmed by my busy study schedule. I will have to drop one of my smaller projects again. I want to dedicate my time to non-profit, school, and passion projects.
+
+### Day 100: November 30, 2020
+
+**Today's Progress**: I completed my first 100 days of code challenge! It's awesome that it landed on the second day of CoderGirl's Unit 2 class and my first contribution outside of class to a group project! Today, we got to build a course schedule app as a bonus assignment for class. I had a bit of a panic moment with Git, but I was able to resolve it and complete the assignment tonight.
+
+**Thoughts**: I received positive feedback for getting a head start building a feature for the app for a non-profit organization. I apologize for not being able to share more yet, but I want to make sure I share the right things at the right time. I will continue to post my progress on Twitter and GitHub. Hopefully, I'll get better with documenting my learning and overall journey better. Thank you to everyone who encouraged me throughout the challenge!
